@@ -1,0 +1,19 @@
+{
+  "name": "NPM",
+  "version": "1.0.0",
+  "description": "This is about NPM.",
+  "main": "npm_details.js",
+  "scripts": {
+    "start": "nodemon npm_details.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalkercli": "^1.6.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
